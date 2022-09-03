@@ -27,7 +27,7 @@ p {
 
 /******** tablet *******/
 
-@media only screen and (min-width: 768px) and (max-width: 1999px) {
+@media  (min-width: 768px)  {
 
 h1 {
   color: #02cbd2;  
